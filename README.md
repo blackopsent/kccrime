@@ -3,8 +3,10 @@
 Introduction
 
 Kansas City, Missouri (KCMO) has a violent crime problem. It was on full display at the Kansas City Chiefs Super Bowl Parade and Rally on February 15, 2024, in downtown KCMO.
+---
 
 February 11, 2024, the Kansas City Chiefs won Super Bowl LVIII, their second such accomplishment in two years. If the franchise achieves a three-peat during the 2025 season, they will be the first National Football League (NFL) franchise in history to win three consecutive Super Bowla, a feat thought to be impossible with the parity in the NFL.
+
 
 Just before 2pm, at the west end of Union Station, automatic gunfire erupted from within the massive crowd, then stopped abruptly. People ran screaming from the origin of the gunfire with live AP (2024) footage of the events showing the wave of panic spreading away from the epicenter like a water drop, not certain the direction to safety. The video also captured the compassion of Kansas City as members of the community risked their lives in the face of a rapidly devolving security environment to aid those who sustained injuries. KCPD would later release that Lisa Lopez-Galvan succumbed to her injuries, and eight other attendees who received serious injuries, including children (KCPD, 2024). This was not supposed to happen; not here, not today, not anywhere ever.
 
